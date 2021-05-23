@@ -1,7 +1,7 @@
 # ( MY FIRST PROJECT )
 
 ### I have  used LandingPage Sample Website From BOOTSTRAP.
-- i have used [bootstrap](https://getbootstrap.com/).
+- I have used [bootstrap](https://getbootstrap.com/).
 
 ## Technology:
 1. HTML5.
