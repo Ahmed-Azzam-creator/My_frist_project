@@ -7,8 +7,7 @@
 1. HTML5.
 2. CSS.
 3. JavaScript.
-4. PHP.
-5. bootstrap for designing.
+4. bootstrap for designing.
 
 ## Instructions:
 1. Download The WebSite Sample From BOOTSTRAP .
